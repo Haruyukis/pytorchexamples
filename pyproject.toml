@@ -2,14 +2,13 @@
 name = "pytorchexamples"
 version = "0.1.0"
 description = ""
-authors = ["Alex Jiang <alex.jiang@grenoble-inp.org>"]
+authors = ["Alex Jiang"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-torch = "^2.4.0"
-torchvision = "^0.19.0"
-numpy = "<2"
+torch = "^2.4.1"
+torchvision = "^0.19.1"
 
 
 [build-system]
